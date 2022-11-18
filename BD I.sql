@@ -1,7 +1,7 @@
 # Queries para criação do banco de dados de Conflitos Belicos para ACH2004 em MySQL
 #
 # Heitor Lopes Bianchi - 10258730
-# Mycaelli Cerqueira de Lima - 
+# Mycaelli Cerqueira de Lima - 10723562
 
 # criar BD
 

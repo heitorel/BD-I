@@ -1,0 +1,18 @@
+Heitor Lopes Bianchi - 10258730
+
+INTSTRUÇÕES PARA EXECUÇÃO DO SISTEMA
+
+1- Crie uma instancia local no MySQL Workbanch seguindo as especificações do arquivo ep\Especs.txt
+2- Execute no MySQL Workbanch a query do arquivo ep\Querys\BD I.sql (todas as consultas utilizadas no sistema estão nesse diretório)
+
+3- Abra como projeto na IDE de sua preferência (recomendação para Eclipse ou Intellij) o diretório ep\
+4- Caso não possua, pode ser necessário adicionar os arquivos .jars externos inclusos nos diretórios:
+    JFreeChart\
+    mysql-connector\
+
+5- Execute o projeto no ambiente de desenvolvimento a partir da classe principal EpbdApplication.java
+6- Todos os arquivos compilados estarão (e já estão) no diretório ep\out
+
+7- Os histograma será exibido na tela e as demais funcionalidades estarão disponíveis no terminal do ambiente
+
+Esse projeto encontra-se disponível em: https://github.com/heitorel/BD-I

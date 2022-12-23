@@ -1,0 +1,3 @@
+SERVERNAME = localhost:3306
+USER = root
+PASSWORD = ""
